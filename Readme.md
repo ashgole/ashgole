@@ -1,7 +1,7 @@
   ![profile counter](https://komarev.com/ghpvc/?username=ashgole)
 
  <h1 align='center'>
-  Hi there ?? I'm Ashish Gole ?????
+  Hi there ?? I'm Ashish Gole ...
 </h1>
 
 <h3 align='center'>
