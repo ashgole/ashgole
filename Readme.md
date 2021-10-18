@@ -66,7 +66,7 @@
 <tr><td>
 HTML CSS Design Template</td><td> https://ashgole.github.io/HTML-CSS-Design-Template/ </td><td>web</td></tr>
 <tr><td>
-HTML CSS Javascript Scribed Clone</td><td> https://ashgole.github.io/HTML-CSS-Javascript-Scribed-Clone/ </td><td>web</td></tr>
+HTML CSS Javascript Scribed Clone</td><td> https://ashgole.github.io/HTML-CSS-Javascript-Open-Library/ </td><td>web</td></tr>
 </tbody>
 </table>
 
