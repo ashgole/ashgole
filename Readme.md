@@ -1,12 +1,3 @@
-Software Company
-https://www.facebook.com/ashabbofficial/
-https://www.instagram.com/ashabbofficial/
-https://www.youtube.com/channel/UCK3pyd2uj6FUqp7c0qGdq5Q
-https://medium.com/@ashabb
-https://www.instagram.com/ashabbofficial/
-
-
-
   ![profile counter](https://komarev.com/ghpvc/?username=ashgole)
 
  <h1 align='center'>
