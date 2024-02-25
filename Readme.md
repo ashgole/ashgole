@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align='center'>
-  A Full Stack developer with skillset of Flutter & ReactJS frontend framework and Django backend framework.
+  A Frontend Developer with skillset of ReactJS and React Three Fiber library.
 </h3>
 
 <p align='center'>
