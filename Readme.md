@@ -71,25 +71,23 @@
 <tr><td>ASHABB ThreeJS Blogs </td><td> https://github.com/ashgole/threejs_blog_medium </td><td>web</td></tr>
 <tr><td>Sharad Music App | React </td><td> https://ashgole.github.io/sharadmusic/ </td><td>web</td></tr>
 <tr><td>
-ReactJS Django Weather App</td><td> https://weather143.herokuapp.com/ </td><td>web</td></tr>
+Open Library | Javascript</td><td> https://ashgole.github.io/HTML-CSS-Javascript-Open-Library/ </td><td>web</td></tr>
+<tr><td>
+Website Template | HTML CSS</td><td> https://ashgole.github.io/HTML-CSS-Design-Template/ </td><td>web</td></tr>
+<tr><td>Music Player | Javascript</td><td> https://ashgole.github.io/Javascript-music-player/ </td><td>web</td></tr>
+<tr><td>ReactJS NodeJS Chat Application</td><td> http://silly-mcnulty-c109a2.netlify.app/ </td><td>web</td></tr>
 
+<tr><td colspan="3">other<td></td><tr>
+  
+<tr><td>
+ReactJS Django Weather App</td><td> https://weather143.herokuapp.com/ </td><td>web</td></tr>
 <tr><td>
 ReactJS Open Library</td><td> https://youthful-shirley-cd0296.netlify.app/ </td><td>web</td></tr>
-
-<tr><td>
-HTML CSS Javascript Open Library</td><td> https://ashgole.github.io/HTML-CSS-Javascript-Open-Library/ </td><td>web</td></tr>
-
-<tr><td>
-HTML CSS Design Template</td><td> https://ashgole.github.io/HTML-CSS-Design-Template/ </td><td>web</td></tr>
-
  <tr><td>HTML CSS Portfolio Template</td><td> https://ashgole.github.io/HTML-CSS-Portfolio-Template/ </td><td>web</td></tr>
-
-<tr><td>Javascript Music Player</td><td> https://ashgole.github.io/Javascript-music-player/ </td><td>web</td></tr>
-
 <tr><td>Numbers</td><td> https://play.google.com/store/apps/details?id=com.ashabb.numbers </td><td>App</td></tr>
 <tr><td>SANON</td><td> https://play.google.com/store/apps/details?id=com.ashabb.sanon </td><td>App</td></tr>
 <tr><td>where is my...?</td><td> https://play.google.com/store/apps/details?id=com.ashabb.whereismy </td><td>App</td></tr>
-<tr><td>ReactJS NodeJS Chat Application</td><td> http://silly-mcnulty-c109a2.netlify.app/ </td><td>web</td></tr>
+
 
 
 </tbody>
