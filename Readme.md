@@ -69,6 +69,7 @@
 
 <tr><td>Portfolio</td><td> https://ashabbsoftmart.web.app/ </td><td>web</td></tr>
 <tr><td>ASHABB ThreeJS Blogs </td><td> https://github.com/ashgole/threejs_blog_medium </td><td>web</td></tr>
+<tr><td>Sharad Music App | React </td><td> https://ashgole.github.io/sharadmusic/ </td><td>web</td></tr>
 <tr><td>
 ReactJS Django Weather App</td><td> https://weather143.herokuapp.com/ </td><td>web</td></tr>
 
