@@ -15,13 +15,9 @@
   <a href="https://www.linkedin.com/in/ashabb/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- 
+
   <a href="https://www.instagram.com/threejsblog/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://www.youtube.com/channel/UCK3pyd2uj6FUqp7c0qGdq5Q">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
    <a href="https://medium.com/@ashabb">
@@ -44,6 +40,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+     <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit" />
 </p>
@@ -63,16 +60,16 @@
 
 <tr><td>Portfolio</td><td> https://ashabbsoftmart.web.app/ </td><td>web</td></tr>
 <tr><td>ASHABB ThreeJS Blogs </td><td> https://github.com/ashgole/threejs_blog_medium </td><td>web</td></tr>
+<tr><td>ASHABB ReactJS Blogs </td><td> https://github.com/ashgole/reactjs_blog_medium </td><td>web</td></tr>
 <tr><td>Sharad Music App | React </td><td> https://ashgole.github.io/sharadmusic/ </td><td>web</td></tr>
 <tr><td>
 Open Library | Javascript</td><td> https://ashgole.github.io/HTML-CSS-Javascript-Open-Library/ </td><td>web</td></tr>
 <tr><td>
 Website Template | HTML CSS</td><td> https://ashgole.github.io/HTML-CSS-Design-Template/ </td><td>web</td></tr>
 <tr><td>Music Player | Javascript</td><td> https://ashgole.github.io/Javascript-music-player/ </td><td>web</td></tr>
-<tr><td>ReactJS NodeJS Chat Application</td><td> http://silly-mcnulty-c109a2.netlify.app/ </td><td>web</td></tr>
 
 <tr><td colspan="3">other</td><tr>
-  
+
 <tr><td>
 ReactJS Django Weather App</td><td> https://weather143.herokuapp.com/ </td><td>web</td></tr>
 <tr><td>
