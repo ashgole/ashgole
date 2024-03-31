@@ -9,7 +9,7 @@
 </h3>
 
 <p align='center'>
-      <a href="https://ashabbsoftmart.web.app/">
+      <a href="https://ashabb.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-CC0000?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ashabb/">
