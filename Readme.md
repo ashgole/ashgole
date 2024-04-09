@@ -69,10 +69,9 @@
 Open Library | Javascript</td><td> https://ashgole.github.io/HTML-CSS-Javascript-Open-Library/ </td><td>web</td></tr>
 <tr><td>
 Website Template | HTML CSS</td><td> https://ashgole.github.io/HTML-CSS-Design-Template/ </td><td>web</td></tr>
-<tr><td>Music Player | Javascript</td><td> https://ashgole.github.io/Javascript-music-player/ </td><td>web</td></tr>
 
 <tr><td colspan="3">other</td><tr>
-
+<tr><td>Music Player | Javascript</td><td> https://ashgole.github.io/Javascript-music-player/ </td><td>web</td></tr>
 <tr><td>
 ReactJS Django Weather App</td><td> https://weather143.herokuapp.com/ </td><td>web</td></tr>
 <tr><td>
