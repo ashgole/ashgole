@@ -5,8 +5,8 @@
 </h1>
 
 <h3 align='center'>
-  A Frontend Developer with skillset of ReactJS and ThreeJS. <br/>
-<a href="https://ashabb.netlify.app/">  We offer freelance web development using ReactJS and Threejs.</a>
+  A Full Stack Developer with skillset of ReactJS, ThreeJS and NodeJS. <br/>
+<a href="https://ashabb.netlify.app/">  We offer freelance web development using ReactJS, ThreeJS and NodeJS.</a>
 </h3>
 
 <p align='center'>
