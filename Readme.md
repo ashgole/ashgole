@@ -74,12 +74,8 @@ Website Template | HTML CSS</td><td> https://ashgole.github.io/HTML-CSS-Design-T
 <tr><td>Music Player | Javascript</td><td> https://ashgole.github.io/Javascript-music-player/ </td><td>web</td></tr>
 <tr><td>
 ReactJS Django Weather App</td><td> https://weather143.herokuapp.com/ </td><td>web</td></tr>
-<tr><td>
-ReactJS Open Library</td><td> https://youthful-shirley-cd0296.netlify.app/ </td><td>web</td></tr>
  <tr><td>HTML CSS Portfolio Template</td><td> https://ashgole.github.io/HTML-CSS-Portfolio-Template/ </td><td>web</td></tr>
-<tr><td>Numbers</td><td> https://play.google.com/store/apps/details?id=com.ashabb.numbers </td><td>App</td></tr>
-<tr><td>SANON</td><td> https://play.google.com/store/apps/details?id=com.ashabb.sanon </td><td>App</td></tr>
-<tr><td>where is my...?</td><td> https://play.google.com/store/apps/details?id=com.ashabb.whereismy </td><td>App</td></tr>
+
 
 
 
