@@ -9,7 +9,7 @@
 <a href="https://ashabb.netlify.app/">  We offer freelance web development using ReactJS, ThreeJS and NodeJS.</a>
 </h3>
 
-### 🌐 Socials:
+### 🌐 Socials
 <p align='center'>
       <a href="https://ashabb.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-CC0000?style=for-the-badge&logoColor=white" />
@@ -30,7 +30,7 @@
   </a>
 </p> 
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 <p align='center'>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -44,7 +44,7 @@
 </p>
 
  
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ashgole&show_icons=true&count_private=true&theme=dark" width="600"></a>
@@ -53,7 +53,7 @@
 </p>
 
 
-###  Live Projects 
+### 💻 Live Projects 
 <table border="1" width="100%">
 <thead>
 <tr><th>Name</th><th>Link</th><th>Type</th></tr>
