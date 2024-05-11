@@ -45,13 +45,15 @@
 
  
 ### 📊 GitHub Stats:
-[![Ashish Gole stats-Dark](https://github-readme-stats.vercel.app/api?username=ashgole&theme=dark&count_private=true&show_icons=true)](https://github.com/username=ashgole/github-readme-stats#gh-dark-mode-only)
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ashgole&show_icons=true&count_private=true&theme=dark" width="600"></a>
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashgole&count_private=true&show_icons=true&theme=dark)
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashgole&count_private=true&show_icons=true&theme=dark" width="400"></a>
+</p>
 
-***
 
-<h2 ><font color="red"> Live Projects </font></h2>
+###  Live Projects 
 <table border="1" width="100%">
 <thead>
 <tr><th>Name</th><th>Link</th><th>Type</th></tr>
