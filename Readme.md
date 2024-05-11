@@ -27,13 +27,7 @@
   <a href="https://github.com/ashgole">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ashgole&show_icons=true&count_private=true&theme=dark" width="400"></a>
-</p>
+</p> 
 
 <p align='center'>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -47,9 +41,12 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit" />
 </p>
 
-<p align='center'>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashgole" style="max-width: 100%;">
-</p>
+ 
+### 📊 GitHub Stats:
+[![Ashish Gole stats-Dark](https://github-readme-stats.vercel.app/api?username=ashgole&theme=dark&count_private=true&show_icons=true)](https://github.com/username=ashgole/github-readme-stats#gh-dark-mode-only)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shgole&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashgole&count_private=true&show_icons=true&theme=dark)
+ 
 
 ***
 
