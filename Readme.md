@@ -9,6 +9,7 @@
 <a href="https://ashabb.netlify.app/">  We offer freelance web development using ReactJS, ThreeJS and NodeJS.</a>
 </h3>
 
+### 🌐 Socials:
 <p align='center'>
       <a href="https://ashabb.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-CC0000?style=for-the-badge&logoColor=white" />
@@ -29,6 +30,7 @@
   </a>
 </p> 
 
+### 💻 Tech Stack:
 <p align='center'>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -44,7 +46,6 @@
  
 ### 📊 GitHub Stats:
 [![Ashish Gole stats-Dark](https://github-readme-stats.vercel.app/api?username=ashgole&theme=dark&count_private=true&show_icons=true)](https://github.com/username=ashgole/github-readme-stats#gh-dark-mode-only)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shgole&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashgole&count_private=true&show_icons=true&theme=dark)
  
 
