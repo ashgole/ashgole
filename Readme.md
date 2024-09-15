@@ -61,7 +61,7 @@
 <tbody>
 
 <tr><td>Portfolio</td><td> https://ashabb.netlify.app/ </td><td>web</td></tr>
-<tr><td>NEXTjs Blogging App</td><td> [https://ashabb.netlify.app/](https://ashabb-myblog-nextjs.vercel.app/) </td><td>web</td></tr>
+<tr><td>NEXTjs Blogging App</td><td> https://ashabb-myblog-nextjs.vercel.app/ </td><td>web</td></tr>
 <tr><td>MERN Todo App </td><td>https://github.com/ashgole/react_node_mongo</td><td>web</td></tr>
 <tr><td>ASHABB ThreeJS Blogs </td><td> https://github.com/ashgole/threejs_blog_medium </td><td>web</td></tr>
 <tr><td>ASHABB ReactJS Blogs </td><td> https://github.com/ashgole/reactjs_blog_medium </td><td>web</td></tr>
