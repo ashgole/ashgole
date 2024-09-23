@@ -5,8 +5,8 @@
 </h1>
 
 <h3 align='center'>
-  A Full Stack Developer with skillset of ReactJS, ThreeJS and NodeJS. <br/>
-<a href="https://ashabb.netlify.app/">  We offer freelance web development using ReactJS, ThreeJS and NodeJS.</a>
+  A Full Stack Developer with skillset of MERN, NEXTjs and ThreeJS.<br/>
+<a href="https://ashabb.netlify.app/">  We offer freelance web development using  MERN, NEXTjs and ThreeJS.</a>
 </h3>
 
 ### 🌐 Socials
@@ -28,7 +28,7 @@
   <a href="https://github.com/ashgole">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p> 
+</p>
 
 ### 💻 Tech Stack
 <p align='center'>
@@ -38,12 +38,13 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
      <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit" />
 </p>
 
- 
+
 ### 📊 GitHub Stats
 
 <p align='center'>
@@ -53,7 +54,7 @@
 </p>
 
 
-### 💻 Live Projects 
+### 💻 Live Projects
 <table border="1" width="100%">
 <thead>
 <tr><th>Name</th><th>Link</th><th>Type</th></tr>
@@ -61,8 +62,9 @@
 <tbody>
 
 <tr><td>Portfolio</td><td> https://ashabb.netlify.app/ </td><td>web</td></tr>
-<tr><td>NEXTjs Blogging App</td><td>https://github.com/ashgole/blogging_website_NEXTjs </td><td>web</td></tr>
-<tr><td>MERN Todo App </td><td>https://github.com/ashgole/react_node_mongo</td><td>web</td></tr>
+<tr><td>Stock Management | NEXTjs</td><td>https://github.com/ashgole/stock_management_nextjs </td><td>web</td></tr>
+<tr><td>Blogging website | NEXTjs</td><td>https://github.com/ashgole/blogging_website_NEXTjs </td><td>web</td></tr>
+<tr><td>Todo App | MERN </td><td>https://github.com/ashgole/react_node_mongo</td><td>web</td></tr>
 <tr><td>ASHABB ThreeJS Blogs </td><td> https://github.com/ashgole/threejs_blog_medium </td><td>web</td></tr>
 <tr><td>ASHABB ReactJS Blogs </td><td> https://github.com/ashgole/reactjs_blog_medium </td><td>web</td></tr>
 <tr><td>Sharad Music App | React </td><td> https://ashgole.github.io/sharadmusic/ </td><td>web</td></tr>
@@ -72,9 +74,7 @@ Open Library | Javascript</td><td> https://ashgole.github.io/HTML-CSS-Javascript
 Website Template | HTML CSS</td><td> https://ashgole.github.io/HTML-CSS-Design-Template/ </td><td>web</td></tr>
 
 <tr><td colspan="3">other</td><tr>
-<tr><td>Music Player | Javascript</td><td> https://ashgole.github.io/Javascript-music-player/ </td><td>web</td></tr>
-<tr><td>
-ReactJS Django Weather App</td><td> https://weather143.herokuapp.com/ </td><td>web</td></tr>
+
  <tr><td>HTML CSS Portfolio Template</td><td> https://ashgole.github.io/HTML-CSS-Portfolio-Template/ </td><td>web</td></tr>
 
 
