@@ -5,8 +5,8 @@
 </h1>
 
 <h3 align='center'>
-  A Full Stack Developer with skillset of MERN, NEXTjs and ThreeJS.<br/>
-<a href="https://ashabb.netlify.app/">  We offer freelance web development using  MERN, NEXTjs and ThreeJS.</a>
+  A Full Stack Developer with skillset of MERN, NextJS and ThreeJS.<br/>
+<a href="https://ashabb.netlify.app/">  We offer freelance web development using  MERN, NextJS and ThreeJS.</a>
 </h3>
 
 ### 🌐 Socials
