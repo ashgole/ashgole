@@ -6,12 +6,12 @@
 
 <h3 align='center'>
   A Full Stack Developer with skillset of MERN, NextJS and ThreeJS.<br/>
-<a href="https://www.ashabb.com" target="__blank">  We offer freelance web development using  MERN, NextJS and ThreeJS.</a>
+<a href="https://www.ashabb.com" target="_blank">  We offer freelance web development using  MERN, NextJS and ThreeJS.</a>
 </h3>
 
 ### 🌐 Socials
 <p align='center'>
-      <a  target="__blank" href="https://www.ashabb.com">
+      <a  target="_blank" href="https://www.ashabb.com">
     <img src="https://img.shields.io/badge/Portfolio-CC0000?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ashabb/">
