@@ -68,11 +68,11 @@
 ### 💻 Live Projects
 <table border="1" width="100%">
 <thead>
-<tr><th>Name</th><th>Link</th><th>Type</th></tr>
+<tr><th>Name</th><th>Link</th><th>Web Type</th></tr>
 </thead>
 <tbody>
 
-<tr><td>Portfolio</td><td> https://ashabb.netlify.app/ </td><td>Web type</td></tr>
+<tr><td>Portfolio</td><td> https://ashabb.netlify.app/ </td><td>web</td></tr>
 <tr><td>R3F Walkthrough | R3F </td><td>https://github.com/ashgole/r3f_walkthrough</td><td>Landin Page</td></tr>
 <tr><td>3D Landing Page | R3F </td><td>https://github.com/ashgole/r3f_landing_page</td><td>Landin Page</td></tr>
 <tr><td>Stock Management | NEXTjs</td><td>https://github.com/ashgole/stock_management_nextjs </td><td>Web App</td></tr>
