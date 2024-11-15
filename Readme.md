@@ -86,9 +86,7 @@ Open Library | Javascript</td><td> https://ashgole.github.io/HTML-CSS-Javascript
 <tr><td>
 Website Template | HTML CSS</td><td> https://ashgole.github.io/HTML-CSS-Design-Template/ </td><td>Landing Page</td></tr>
 
-<tr><td colspan="3">other</td><tr>
-
- <tr><td>HTML CSS Portfolio Template</td><td> https://ashgole.github.io/HTML-CSS-Portfolio-Template/ </td><td>web</td></tr>
+ 
 
 </tbody>
 </table>
@@ -97,6 +95,8 @@ Website Template | HTML CSS</td><td> https://ashgole.github.io/HTML-CSS-Design-T
 - React Three Fiber snippets VSCode extension : https://marketplace.visualstudio.com/items?itemName=ASHABB.ashabb-react-three-fiber
 - Grepper : https://www.grepper.com/profile/ash-gole
 - Stackoverflow : https://stackoverflow.com/users/10438370/ashish-gole
+- FoodieDelight ( MERN ) APP - https://github.com/ashgole/Thinkbridge_Foodiedelight_MERN
+- Threejs Draw wall Project - https://github.com/ashgole/aastra_threejs_drawwall
 
 ***
 <a  href="https://pages.razorpay.com/ashabbpay" target="_blank">
