@@ -94,9 +94,9 @@ Website Template | HTML CSS</td><td> https://ashgole.github.io/HTML-CSS-Design-T
 </table>
 
 ### 🔗 Other Links
-React Three Fiber snippets VSCode extension : https://marketplace.visualstudio.com/items?itemName=ASHABB.ashabb-react-three-fiber
-Grepper : https://www.grepper.com/profile/ash-gole
-Stackoverflow : https://stackoverflow.com/users/10438370/ashish-gole
+- React Three Fiber snippets VSCode extension : https://marketplace.visualstudio.com/items?itemName=ASHABB.ashabb-react-three-fiber
+- Grepper : https://www.grepper.com/profile/ash-gole
+- Stackoverflow : https://stackoverflow.com/users/10438370/ashish-gole
 
 ***
 <a  href="https://pages.razorpay.com/ashabbpay" target="_blank">
