@@ -73,8 +73,8 @@
 <tbody>
 
 <tr><td>Portfolio</td><td> https://ashabb.netlify.app/ </td><td>web</td></tr>
-<tr><td>R3F Walkthrough | R3F </td><td>https://github.com/ashgole/r3f_walkthrough</td><td>Landin Page</td></tr>
-<tr><td>3D Landing Page | R3F </td><td>https://github.com/ashgole/r3f_landing_page</td><td>Landin Page</td></tr>
+<tr><td>R3F Walkthrough | R3F </td><td>https://github.com/ashgole/r3f_walkthrough</td><td>Landing Page</td></tr>
+<tr><td>3D Landing Page | R3F </td><td>https://github.com/ashgole/r3f_landing_page</td><td>Landing Page</td></tr>
 <tr><td>Stock Management | NEXTjs</td><td>https://github.com/ashgole/stock_management_nextjs </td><td>Web App</td></tr>
 <tr><td>Blogging website | NEXTjs</td><td>https://github.com/ashgole/blogging_website_NEXTjs </td><td>Web App</td></tr>
 <tr><td>Todo App | MERN </td><td>https://github.com/ashgole/react_node_mongo</td><td>Web App</td></tr>
@@ -82,9 +82,9 @@
 <tr><td>ASHABB ReactJS Blogs </td><td> https://github.com/ashgole/reactjs_blog_medium </td><td>Blogs</td></tr>
 <tr><td>Sharad Music App | React </td><td> https://ashgole.github.io/sharadmusic/ </td><td>Web App</td></tr>
 <tr><td>
-Open Library | Javascript</td><td> https://ashgole.github.io/HTML-CSS-Javascript-Open-Library/ </td><td>Landin Page</td></tr>
+Open Library | Javascript</td><td> https://ashgole.github.io/HTML-CSS-Javascript-Open-Library/ </td><td>Landing Page</td></tr>
 <tr><td>
-Website Template | HTML CSS</td><td> https://ashgole.github.io/HTML-CSS-Design-Template/ </td><td>Landin Page</td></tr>
+Website Template | HTML CSS</td><td> https://ashgole.github.io/HTML-CSS-Design-Template/ </td><td>Landing Page</td></tr>
 
 <tr><td colspan="3">other</td><tr>
 
