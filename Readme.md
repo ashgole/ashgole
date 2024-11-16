@@ -97,6 +97,7 @@ Website Template | HTML CSS</td><td> https://ashgole.github.io/HTML-CSS-Design-T
 - Stackoverflow : https://stackoverflow.com/users/10438370/ashish-gole
 - FoodieDelight ( MERN ) APP - https://github.com/ashgole/Thinkbridge_Foodiedelight_MERN
 - Threejs Draw wall Project - https://github.com/ashgole/aastra_threejs_drawwall
+- hello world typescript nextjs - https://github.com/ashgole/hello_world_typescript_nextjs
 
 ***
 <a  href="https://pages.razorpay.com/ashabbpay" target="_blank">
