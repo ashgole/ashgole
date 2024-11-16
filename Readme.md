@@ -68,23 +68,23 @@
 ### 💻 Live Projects
 <table border="1" width="100%">
 <thead>
-<tr><th>Name</th><th>Link</th><th>Web Type</th></tr>
+<tr><th>Name</th><th>Link</th><th>Web Type</th><th>Technology</th></tr>
 </thead>
 <tbody>
 
-<tr><td>Portfolio</td><td> https://ashabb.netlify.app/ </td><td>web</td></tr>
-<tr><td>R3F Walkthrough | R3F </td><td>https://github.com/ashgole/r3f_walkthrough</td><td>Landing Page</td></tr>
-<tr><td>3D Landing Page | R3F </td><td>https://github.com/ashgole/r3f_landing_page</td><td>Landing Page</td></tr>
-<tr><td>Stock Management | NEXTjs</td><td>https://github.com/ashgole/stock_management_nextjs </td><td>Web App</td></tr>
-<tr><td>Blogging website | NEXTjs</td><td>https://github.com/ashgole/blogging_website_NEXTjs </td><td>Web App</td></tr>
-<tr><td>Todo App | MERN </td><td>https://github.com/ashgole/react_node_mongo</td><td>Web App</td></tr>
-<tr><td>ASHABB ThreeJS Blogs </td><td> https://github.com/ashgole/threejs_blog_medium </td><td>Blogs</td></tr>
-<tr><td>ASHABB ReactJS Blogs </td><td> https://github.com/ashgole/reactjs_blog_medium </td><td>Blogs</td></tr>
-<tr><td>Sharad Music App | React </td><td> https://ashgole.github.io/sharadmusic/ </td><td>Web App</td></tr>
+<tr><td>Portfolio</td><td> https://www.ashabb.com </td><td>web</td><td>Nextjs</td></tr>
+<tr><td>R3F Walkthrough</td><td>https://github.com/ashgole/r3f_walkthrough</td><td>Landing Page</td><td>Threejs R3F</td></tr>
+<tr><td>3D Landing Page</td><td>https://github.com/ashgole/r3f_landing_page</td><td>Landing Page</td><td>Threejs R3F</td></tr>
+<tr><td>Stock Management</td><td>https://github.com/ashgole/stock_management_nextjs </td><td>Web App</td><td>Nextjs</td></tr>
+<tr><td>Blogging website</td><td>https://github.com/ashgole/blogging_website_NEXTjs </td><td>Web App</td><td>Nextjs</td></tr>
+<tr><td>Todo App </td><td>https://github.com/ashgole/react_node_mongo</td><td>Web App</td><td>MERN</td></tr>
+<tr><td>ASHABB ThreeJS Blogs </td><td> https://github.com/ashgole/threejs_blog_medium </td><td>Blogs</td><td>-</td></tr>
+<tr><td>ASHABB ReactJS Blogs </td><td> https://github.com/ashgole/reactjs_blog_medium </td><td>Blogs</td><td>-</td></tr>
+<tr><td>Sharad Music App </td><td> https://ashgole.github.io/sharadmusic/ </td><td>Web App</td><td>React</td></tr>
 <tr><td>
-Open Library | Javascript</td><td> https://ashgole.github.io/HTML-CSS-Javascript-Open-Library/ </td><td>Landing Page</td></tr>
+Open Library</td><td> https://ashgole.github.io/HTML-CSS-Javascript-Open-Library/ </td><td>Landing Page</td><td>HTML CSS Javascript</td></tr>
 <tr><td>
-Website Template | HTML CSS</td><td> https://ashgole.github.io/HTML-CSS-Design-Template/ </td><td>Landing Page</td></tr>
+Website Template</td><td> https://ashgole.github.io/HTML-CSS-Design-Template/ </td><td>Landing Page</td><td>HTML CSS Javascript</td></tr>
 
  
 
