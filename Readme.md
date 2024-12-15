@@ -79,8 +79,7 @@
 <tr><td>Blogging website</td><td>https://github.com/ashgole/blogging_website_NEXTjs </td><td>Web App</td><td>Nextjs</td></tr>
 <tr><td>Todo App </td><td>https://github.com/ashgole/react_node_mongo</td><td>Web App</td><td>MERN</td></tr>
 <tr><td>ASHABB ThreeJS Blogs </td><td> https://github.com/ashgole/threejs_blog_medium </td><td>Blogs</td><td>-</td></tr>
-<tr><td>ASHABB ReactJS Blogs </td><td> https://github.com/ashgole/reactjs_blog_medium </td><td>Blogs</td><td>-</td></tr>
-<tr><td>Sharad Music App </td><td> https://ashgole.github.io/sharadmusic/ </td><td>Web App</td><td>React</td></tr>
+<tr><td>ASHABB ReactJS Blogs </td><td> https://github.com/ashgole/reactjs_blog_medium </td><td>Blogs</td><td>-</td></tr> 
 <tr><td>
 Open Library</td><td> https://ashgole.github.io/HTML-CSS-Javascript-Open-Library/ </td><td>Landing Page</td><td>HTML CSS Javascript</td></tr>
 <tr><td>
