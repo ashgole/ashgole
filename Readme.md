@@ -100,6 +100,6 @@ Website Template</td><td> https://ashgole.github.io/HTML-CSS-Design-Template/ </
 - hello world typescript nextjs - https://github.com/ashgole/hello_world_typescript_nextjs
 
 ***
-<a  href="[https://pages.razorpay.com/ashabbpay](https://buymeacoffee.com/ashabb)" target="_blank">
+<a  href="https://buymeacoffee.com/ashabb" target="_blank">
 <img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
 </a>
